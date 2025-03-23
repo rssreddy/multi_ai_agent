@@ -1,0 +1,27 @@
+# Core dependencies
+langchain>=0.0.267
+langchain-core>=0.0.10
+langchain-experimental>=0.0.10
+langchain-openai>=0.0.2
+langchain-community>=0.0.1
+langchain-groq>=0.0.1
+
+# LLM providers
+openai>=1.3.0
+groq>=0.4.0
+
+# State management
+langgraph>=0.0.10
+
+# Utilities
+pydantic>=2.4.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+typing-extensions>=4.7.0
+ipython>=8.0.0
+
+# Development tools
+pytest>=7.4.0
+black>=23.7.0
+isort>=5.12.0
+flake8>=6.1.0
